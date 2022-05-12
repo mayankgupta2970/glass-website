@@ -137,22 +137,7 @@ main {
   justify-content: space-between;
 }
 
-.progress {
-  background: linear-gradient(to right top, #65dfc9, #6cdbeb);
-  width: 100%;
-  height: 25%;
-  border-radius: 1rem;
-  position: relative;
-  
-}
-/* .progress::after {
-  content: "";
-  width: 100%;
-  height: 100%;
-  background: rgb(236, 236, 236);
-  position: absolute;
-  left: 60%;
-} */
+
 .card-info {
   display: flex;
   flex-direction: column;
